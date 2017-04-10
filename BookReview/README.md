@@ -1,21 +1,28 @@
-## Book Review - Giới thiệu sách
-# Các thành viên trong nhóm :
-- Nguyễn Văn Quang Huy
-- Đỗ Hải Bình
-- Bùi Đức Hoàng
-- Trần Văn Nghĩa
-# Giới thiệu về website 
-Book Review là website giúp người dùng có thể :
-- Viết review cho những tựa sách mình ưa thích
-- Xem review của những tựa sách khác
-- Đánh giá, bình luận các tựa sách
-# Website tham khảo: https://www.amazon.com/
-# Ngôn ngữ sử dụng,frame work
-- html,css
-- bootstrap
-- ruby on rails
-# Sơ đồ ca sử dụng
-![Use case](https://github.com/vannghia133/Nhom-DMX/blob/master/usecase.jpg)
-# Tính năng đang phát triển
-- Xây dựng hệ thống mua sách online
+== README
 
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.

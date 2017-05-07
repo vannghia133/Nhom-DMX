@@ -31,6 +31,7 @@ class BooksController < ApplicationController
 		if @book.save
 			redirect_to root_path
 		else
+			
 			render 'new'
 		end
 	end
@@ -56,7 +57,7 @@ class BooksController < ApplicationController
 	private
 
 		def book_params
-			params.require(:book).permit(:title, :description, :author , :category_id,  :book_img)
+			params.require(:book).permit(:title, :description, :author , :category_id, :image)
 		end
 
 		def find_book
